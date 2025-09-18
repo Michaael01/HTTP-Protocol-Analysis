@@ -73,23 +73,26 @@ tcp.port == 80 to show the default ports
 
 http.request.method == "GET" 
 
-<img width="1642" height="1078" alt="image" src="https://github.com/user-attachments/assets/5ab18cd5-4482-4804-a00d-8455bd4abf03" />
+<img width="1337" height="777" alt="image" src="https://github.com/user-attachments/assets/6b7a7a1d-0b53-46fe-b77a-7e2100f1ff2b" />
 
 ## View Requested Resources
 
 http.request.uri
 
-<img width="1710" height="903" alt="image" src="https://github.com/user-attachments/assets/18dbf118-2043-48a3-9f4d-8474d3acde11" />
+<img width="1196" height="677" alt="image" src="https://github.com/user-attachments/assets/9c675a9d-15cf-4db9-a800-dff2c430df82" />
+
 
 ## Show Cookies in HTTP Response
 http.set_cookie 
 
-<img width="1725" height="1065" alt="image" src="https://github.com/user-attachments/assets/accd5501-9d2a-4b16-8b12-6ed9a14f8d5d" />
+<img width="1400" height="851" alt="image" src="https://github.com/user-attachments/assets/9a159bf5-fded-480b-8390-8607a5385ce1" />
+
 
 ## HTTP Traffic To/From Specific Host
 ip.addr == 192.168.1.22 
 
-<img width="1743" height="1066" alt="image" src="https://github.com/user-attachments/assets/7f121d4d-a570-4066-aedf-eaf0813756c8" />
+<img width="1348" height="817" alt="image" src="https://github.com/user-attachments/assets/354be393-9515-4fea-a155-4dfa3ee334ed" />
+
 
 # Conclusion
 
